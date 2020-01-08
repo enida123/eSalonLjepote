@@ -1,0 +1,36 @@
+C:\Users\Enida Obradovic\source\repos\eStudioLjepote\eStudioLjepote.Model\bin\Debug\netstandard2.0\eStudioLjepote.Model.deps.json
+C:\Users\Enida Obradovic\source\repos\eStudioLjepote\eStudioLjepote.Model\bin\Debug\netstandard2.0\eStudioLjepote.Model.dll
+C:\Users\Enida Obradovic\source\repos\eStudioLjepote\eStudioLjepote.Model\bin\Debug\netstandard2.0\eStudioLjepote.Model.pdb
+C:\Users\Enida Obradovic\source\repos\eStudioLjepote\eStudioLjepote.Model\obj\Debug\netstandard2.0\eStudioLjepote.Model.csprojAssemblyReference.cache
+C:\Users\Enida Obradovic\source\repos\eStudioLjepote\eStudioLjepote.Model\obj\Debug\netstandard2.0\eStudioLjepote.Model.csproj.CoreCompileInputs.cache
+C:\Users\Enida Obradovic\source\repos\eStudioLjepote\eStudioLjepote.Model\obj\Debug\netstandard2.0\eStudioLjepote.Model.AssemblyInfoInputs.cache
+C:\Users\Enida Obradovic\source\repos\eStudioLjepote\eStudioLjepote.Model\obj\Debug\netstandard2.0\eStudioLjepote.Model.AssemblyInfo.cs
+C:\Users\Enida Obradovic\source\repos\eStudioLjepote\eStudioLjepote.Model\obj\Debug\netstandard2.0\eStudioLjepote.Model.dll
+C:\Users\Enida Obradovic\source\repos\eStudioLjepote\eStudioLjepote.Model\obj\Debug\netstandard2.0\eStudioLjepote.Model.pdb
+C:\Users\Enida Obradovic\Desktop\eStudioLjepote\eStudioLjepote.Model\bin\Debug\netstandard2.0\eStudioLjepote.Model.deps.json
+C:\Users\Enida Obradovic\Desktop\eStudioLjepote\eStudioLjepote.Model\bin\Debug\netstandard2.0\eStudioLjepote.Model.dll
+C:\Users\Enida Obradovic\Desktop\eStudioLjepote\eStudioLjepote.Model\bin\Debug\netstandard2.0\eStudioLjepote.Model.pdb
+C:\Users\Enida Obradovic\Desktop\eStudioLjepote\eStudioLjepote.Model\obj\Debug\netstandard2.0\eStudioLjepote.Model.csprojAssemblyReference.cache
+C:\Users\Enida Obradovic\Desktop\eStudioLjepote\eStudioLjepote.Model\obj\Debug\netstandard2.0\eStudioLjepote.Model.csproj.CoreCompileInputs.cache
+C:\Users\Enida Obradovic\Desktop\eStudioLjepote\eStudioLjepote.Model\obj\Debug\netstandard2.0\eStudioLjepote.Model.AssemblyInfoInputs.cache
+C:\Users\Enida Obradovic\Desktop\eStudioLjepote\eStudioLjepote.Model\obj\Debug\netstandard2.0\eStudioLjepote.Model.AssemblyInfo.cs
+C:\Users\Enida Obradovic\Desktop\eStudioLjepote\eStudioLjepote.Model\obj\Debug\netstandard2.0\eStudioLjepote.Model.dll
+C:\Users\Enida Obradovic\Desktop\eStudioLjepote\eStudioLjepote.Model\obj\Debug\netstandard2.0\eStudioLjepote.Model.pdb
+C:\Users\Enida Obradovic\Downloads\eStudioLjepote\eStudioLjepote.Model\bin\Debug\netstandard2.0\eStudioLjepote.Model.deps.json
+C:\Users\Enida Obradovic\Downloads\eStudioLjepote\eStudioLjepote.Model\bin\Debug\netstandard2.0\eStudioLjepote.Model.dll
+C:\Users\Enida Obradovic\Downloads\eStudioLjepote\eStudioLjepote.Model\bin\Debug\netstandard2.0\eStudioLjepote.Model.pdb
+C:\Users\Enida Obradovic\Downloads\eStudioLjepote\eStudioLjepote.Model\obj\Debug\netstandard2.0\eStudioLjepote.Model.csprojAssemblyReference.cache
+C:\Users\Enida Obradovic\Downloads\eStudioLjepote\eStudioLjepote.Model\obj\Debug\netstandard2.0\eStudioLjepote.Model.csproj.CoreCompileInputs.cache
+C:\Users\Enida Obradovic\Downloads\eStudioLjepote\eStudioLjepote.Model\obj\Debug\netstandard2.0\eStudioLjepote.Model.AssemblyInfoInputs.cache
+C:\Users\Enida Obradovic\Downloads\eStudioLjepote\eStudioLjepote.Model\obj\Debug\netstandard2.0\eStudioLjepote.Model.AssemblyInfo.cs
+C:\Users\Enida Obradovic\Downloads\eStudioLjepote\eStudioLjepote.Model\obj\Debug\netstandard2.0\eStudioLjepote.Model.dll
+C:\Users\Enida Obradovic\Downloads\eStudioLjepote\eStudioLjepote.Model\obj\Debug\netstandard2.0\eStudioLjepote.Model.pdb
+C:\Users\enida\Downloads\eStduioLjepote-master\eStduioLjepote-master\eStudioLjepote.Model\bin\Debug\netstandard2.0\eStudioLjepote.Model.deps.json
+C:\Users\enida\Downloads\eStduioLjepote-master\eStduioLjepote-master\eStudioLjepote.Model\bin\Debug\netstandard2.0\eStudioLjepote.Model.dll
+C:\Users\enida\Downloads\eStduioLjepote-master\eStduioLjepote-master\eStudioLjepote.Model\bin\Debug\netstandard2.0\eStudioLjepote.Model.pdb
+C:\Users\enida\Downloads\eStduioLjepote-master\eStduioLjepote-master\eStudioLjepote.Model\obj\Debug\netstandard2.0\eStudioLjepote.Model.csprojAssemblyReference.cache
+C:\Users\enida\Downloads\eStduioLjepote-master\eStduioLjepote-master\eStudioLjepote.Model\obj\Debug\netstandard2.0\eStudioLjepote.Model.csproj.CoreCompileInputs.cache
+C:\Users\enida\Downloads\eStduioLjepote-master\eStduioLjepote-master\eStudioLjepote.Model\obj\Debug\netstandard2.0\eStudioLjepote.Model.AssemblyInfoInputs.cache
+C:\Users\enida\Downloads\eStduioLjepote-master\eStduioLjepote-master\eStudioLjepote.Model\obj\Debug\netstandard2.0\eStudioLjepote.Model.AssemblyInfo.cs
+C:\Users\enida\Downloads\eStduioLjepote-master\eStduioLjepote-master\eStudioLjepote.Model\obj\Debug\netstandard2.0\eStudioLjepote.Model.dll
+C:\Users\enida\Downloads\eStduioLjepote-master\eStduioLjepote-master\eStudioLjepote.Model\obj\Debug\netstandard2.0\eStudioLjepote.Model.pdb

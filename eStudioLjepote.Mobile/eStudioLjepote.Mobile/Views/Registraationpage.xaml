@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:eStudioLjepote.Mobile.ViewModels"
+             x:Class="eStudioLjepote.Mobile.Views.Registraationpage">
+    <ContentPage.BindingContext>
+        <vm:Registracija />
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="FillAndExpand" Padding="10" VerticalOptions="CenterAndExpand">
+
+            <Label  Text="Ime"></Label>
+            <Entry x:Name="Ime" Text="{Binding Ime }"></Entry>
+            <Label  Text="Prezime"></Label>
+            <Entry x:Name="Prezime" Text="{Binding Prezime }"></Entry>
+            <Label  Text="Email"></Label>
+            <Entry x:Name="Email" Text="{Binding Email }"></Entry>
+            <Label  Text="BrojTelefona"></Label>
+            <Entry x:Name="BrojTelefona" Text="{Binding BrojTelefona }"></Entry>
+            <Label  Text="Spol"></Label>
+            <Entry x:Name="Spol" Text="{Binding Spol}"></Entry>
+            <Label  Text="Grad"></Label>
+            <Picker ItemsSource="{Binding GradList}"  SelectedItem="{Binding SelectedGrad}" ItemDisplayBinding="{Binding Naziv}"></Picker>
+
+            <Label  Text="Korisničko ime"></Label>
+            <Entry x:Name="KorisnickoIme" Text="{Binding Username }"></Entry>
+
+            <Label  Text="Password"></Label>
+            <Entry Text="{Binding Password}" IsPassword="True"></Entry>
+            <Label  Text="Password confirmation"></Label>
+            <Entry Text="{Binding PasswordConfirmation}" IsPassword="True"></Entry>
+
+            <Button Clicked="Snimi_Clicked"   Text="Sacuvaj" x:Name="Snimi"></Button>
+
+            <Label IsVisible="{Binding IsBusy}" Text="..."></Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
